@@ -47,7 +47,7 @@ permalink: /publications/
   color: inherit;
   cursor: pointer;
 ">
-  <strong>Iniesta, A., <span style="font-style:italic; font-weight:bold;">Rivera, M.</span>, Paolieri, D., & Bajo, T. (2024).</strong><br>
+  <strong>Iniesta, A., <span style="font-weight:bold;">Rivera, M.</span>, Paolieri, D., & Bajo, T. (2024).</strong><br>
   Development of L1-L2 naming skills in a monolingual context: Evidence from children and adolescents. 
   <em>Cognitive Development</em>, 72, 101492.
 </a>
@@ -85,8 +85,7 @@ permalink: /publications/
 </a>
 
 
-  
- # Under review 📌
+# Under review 📌
 
 - **Rivera, M.**, Calpe-Álvarez, A., Guijarro-Fuentes, P. (in press). *El procesamiento del adjetivo en español como L2: estudio desde una perspectiva (psico)lingüística.* En (Eds.) Natalia López Cortez & Ester Álvarez García Predicación y categorías: un panorama teórico y aplicado. Peter Lang
 - Benigno, G.D., Guijarro-Fuentes, P., García-Alcaraz, E., **Rivera, M.**, (accepted). Structural priming as a model for testing potential synchronic change in bilingualism. Linguistic Approaches to Bilingualism
