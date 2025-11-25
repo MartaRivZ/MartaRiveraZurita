@@ -15,7 +15,7 @@ as part of my dedication to conveying bilingualism research findings to the publ
 and contributing to diverse national and international outreach projects. More soon!
 
 
-## Outreach recorded talks
+## Outreach recorded talks 📼
 <div style="margin: 30px 0; text-align: center;">
 
   <h3>November 2024 – Outreach talk at Naukas Palma 2024: <em>Viaje al centro del lenguaje</em></h3>
