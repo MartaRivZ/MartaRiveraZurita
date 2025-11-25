@@ -1,9 +1,11 @@
 ---
 layout: home
-title: "Welcome"
+title: ""
 ---
 
-<img src="/MartaRiveraZurita/IMG_3737.png" alt="Marta Rivera Zurita" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px;"> # Marta Rivera, PhD
+<img src="/MartaRiveraZurita/Marta.png" alt="Marta Rivera Zurita" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px;"> 
+
+# Marta Rivera, PhD
 
 *Juan de la Cierva* postdoctoral researcher in Psycholingusitics and Cognitive Neuroscience (ref: JDC2023-050438-I)
 
