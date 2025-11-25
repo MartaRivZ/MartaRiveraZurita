@@ -20,5 +20,34 @@ Thanks for visiting!
 
 
 
+<div style="
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fafafa;
+  max-width: 500px;
+  margin: 40px auto;
+  text-align: center;
+">
+
+  <h3>Contact me</h3>
+  <p>If you would like to get in touch, feel free to send me an email:</p>
+
+  <a href="mailto:marta.rivera@uib.es?subject=Contact%20from%20your%20website" 
+     style="
+       display: inline-block;
+       margin-top: 10px;
+       padding: 10px 20px;
+       background-color: #007acc;
+       color: white;
+       text-decoration: none;
+       border-radius: 8px;
+       font-weight: bold;
+       cursor: pointer;
+     ">
+     Send email →
+  </a>
+
+</div>
 
 
