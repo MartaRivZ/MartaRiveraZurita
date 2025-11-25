@@ -45,7 +45,7 @@ Thanks for visiting!
        font-weight: bold;
        cursor: pointer;
      ">
-     📥 Send email →
+     📥 Send email
   </a>
 
 </div>
