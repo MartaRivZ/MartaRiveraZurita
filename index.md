@@ -39,7 +39,7 @@ Thanks for visiting!
        margin-top: 10px;
        padding: 10px 20px;
        background-color: #D6ECFF;
-       color: white;
+       color: black;
        text-decoration: none;
        border-radius: 8px;
        font-weight: bold;
