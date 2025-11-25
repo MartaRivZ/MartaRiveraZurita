@@ -7,16 +7,18 @@ title: ""
 
 # Marta Rivera, PhD
 
-*Juan de la Cierva* postdoctoral researcher in Psycholingusitics and Cognitive Neuroscience (ref: JDC2023-050438-I)
+*Juan de la Cierva* postdoctoral researcher in Psycholingusitics and Cognitive Neuroscience (ref: JDC2023-050438-I) at the [BASLA Research group](https://www.baslagroup.com) 
+University of the Balearic Islands (UIB) 
 
 This website is under construction🔅. Soon you will find here information about:
 
 - My research projects
 - Publications and conference talks
-- Teaching activities
 - Outreach and professional service
+- Group team
 
 Thanks for visiting!
+
 
 
 
