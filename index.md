@@ -31,7 +31,7 @@ Thanks for visiting!
 ">
 
   <h3>Contact me</h3>
-  <p>If you would like to get in touch, feel free to send me an email:</p>
+  <p> 📥 If you would like to get in touch, feel free to send me an email:</p>
 
   <a href="mailto:marta.rivera@uib.es?subject=Contact%20from%20your%20website" 
      style="
