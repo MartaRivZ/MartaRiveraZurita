@@ -19,9 +19,6 @@ permalink: /Outreach/
 ---
 
 ## 2024
-<img src="{{ '/assets/outreach-naukas-2024.jpg' | relative_url }}" 
-     alt="Naukas Palma 2024" 
-     style="width: 160px; float: right; margin: 0 0 10px 15px; border-radius: 8px;">
 
 ### November   
 **Outreach talk at Naukas Palma 2024**  
