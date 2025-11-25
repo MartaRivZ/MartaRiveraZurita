@@ -8,3 +8,6 @@ lang: "en"
 header_pages:
   - index.md
   - about.md
+  - research.md
+  - publications.md
+   - outreach.md
