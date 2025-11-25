@@ -5,7 +5,7 @@ title: "Welcome"
 
 # Welcome to my website
 
-Hello, I’m **Marta Rivera Zurita**, a researcher and lecturer in social work and cognitive science.
+Hello, I’m **Marta Rivera Zurita**, a researcher in Psycholingusitics and Cognitive Neuroscience.
 
 This website is under construction🔅. Soon you will find here information about:
 
