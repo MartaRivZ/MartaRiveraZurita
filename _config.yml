@@ -1,10 +1,10 @@
-title: "MartaRiveraZurita"
-description: "Personal Webpage of Marta Rivera Zurita"
+title: "Marta Rivera Zurita"
+description: "Personal academic website"
 theme: minima
 
-# Opciones básicas
 author: "Marta Rivera Zurita"
 lang: "en"
 
 header_pages:
+  - index.md
   - about.md
