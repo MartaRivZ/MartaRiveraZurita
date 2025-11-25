@@ -35,9 +35,6 @@ Thanks for visiting!
 
   <a href="mailto:marta.rivera@uib.es?subject=Contact%20from%20your%20website" 
      style="
-       display: inline-block;
-       margin-top: 10px;
-       padding: 10px 20px;
        background-color: #D6ECFF;
        color: black;
        text-decoration: none;
