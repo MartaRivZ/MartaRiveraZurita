@@ -38,14 +38,14 @@ Thanks for visiting!
        display: inline-block;
        margin-top: 10px;
        padding: 10px 20px;
-       background-color: #007acc;
+       background-color: #D6ECFF;
        color: white;
        text-decoration: none;
        border-radius: 8px;
        font-weight: bold;
        cursor: pointer;
      ">
-     📥 Send email
+     📥 Send an email!
   </a>
 
 </div>
