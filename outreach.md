@@ -6,11 +6,6 @@ permalink: /Outreach/
 
 ## Scientific outreach
 
-Below is a selection of my scientific outreach activities, talks, and public engagement events, organised by year.
-
-_Last updated: 11 November 2025._
-
----
 
 ## 2025
 
