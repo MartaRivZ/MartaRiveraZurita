@@ -15,7 +15,7 @@ My research focuses on cognitive processes involved in language and learning, wi
 ">
 
   <!-- Cuadro 1 (enlace interno) -->
-  <a href="/MartaRiveraZurita/LLproject"
+<a href="{{ '/LLproject/' | relative_url }}"
      style="flex: 1; min-width: 260px; text-decoration: none; color: inherit;">
     
     <div style="
@@ -52,7 +52,7 @@ My research focuses on cognitive processes involved in language and learning, wi
       onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)';"
     >
       <h3 style="margin-top:0;">LAUA Project</h3>
-      <p style="margin-bottom:0;">PI: Pedro Guijarro-Fuentes</p>
+      <p style="margin-bottom:0;">Find my contributions to the project (ref.PID2021-122127NB-100)</p>
     </div>
   </a>
 
