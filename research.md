@@ -3,7 +3,67 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
-My research focuses on cognitive processes involved in language and learning, with a particular interest in how people acquire, process, and use multiple languages. Here you will soon find: - Ongoing and completed research projects - Collaborations with national and international teams - Links to project websites and datasets (when available) - Information about funded projects and grants
+My research focuses on cognitive processes involved in language and learning, with a particular interest in how people acquire, process, and use multiple languages. 
+
+<section id="research-interests">
+
+  <h2 style="text-align:center; margin-top: 40px;">Research interests</h2>
+
+  <style>
+    /* === GRID GENERAL === */
+    .interest-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 20px;
+      margin: 30px auto 50px auto;
+      max-width: 900px;
+    }
+
+    /* === CUADROS === */
+    .interest-box {
+      background: #ffffff;
+      border-radius: 14px;
+      padding: 18px 16px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+      border: 1px solid #e9e9e9;
+    }
+
+    .interest-box:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    }
+
+    /* === ICONOS === */
+    .interest-icon {
+      font-size: 36px;
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    /* === TEXTO === */
+    .interest-title {
+      font-weight: 600;
+      font-size: 1rem;
+      color: #6CCF89; /* verde clarito */
+      margin: 0;
+    }
+
+    /* Versión móvil: un poco más de espacio */
+    @media (max-width: 600px) {
+      .interest-box {
+        padding: 16px 12px;
+      }
+    }
+  </style>
+
+  <div class="interest-grid">
+
+    <div class="interest-box">
+      <span class="interest-icon">📘</span>
+      <p class="interest-t
+
 
 ## Active Research Projects 🗂️
 
