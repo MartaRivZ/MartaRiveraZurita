@@ -7,8 +7,7 @@ title: ""
 
 # Marta Rivera, PhD
 
-*Juan de la Cierva* postdoctoral researcher in Psycholingusitics and Cognitive Neuroscience (ref: JDC2023-050438-I) at the [BASLA Research group](https://www.baslagroup.com) 
- - 📍University of the Balearic Islands (UIB) 
+*Juan de la Cierva* postdoctoral researcher in Psycholingusitics and Cognitive Neuroscience (ref: JDC2023-050438-I) at the [BASLA Research group](https://www.baslagroup.com) 📍University of the Balearic Islands (UIB) 
 
 This website is under construction🔅. Soon you will find here information about:
 
@@ -21,32 +20,43 @@ Thanks for visiting!
 
 
 
-
 <div style="
   border: 1px solid #ddd;
-  padding: 20px;
-  border-radius: 10px;
-  background-color: #fafafa;
-  max-width: 500px;
+  padding: 24px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  max-width: 480px;
   margin: 40px auto;
   text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 ">
 
-  <h3>Contact me</h3>
-  <p> If you would like to get in touch,</p>
+  <h3 style="margin-top: 0; font-size: 1.4rem; color: #333;">
+    Contact me
+  </h3>
 
-  <a href="mailto:marta.rivera@uib.es?subject=Contact%20from%20your%20website" 
+  <p style="color: #555; margin-bottom: 20px;">
+    If you would like to get in touch,
+  </p>
+
+  <a href="mailto:marta.rivera@uib.es?subject=Contact%20from%20your%20website"
      style="
-       background-color: #D6ECFF;
-       color: black;
+       display: inline-block;
+       background: linear-gradient(135deg, #D6ECFF, #b8dcff);
+       color: #000;
        text-decoration: none;
-       border-radius: 8px;
-       font-weight: bold;
-       cursor: pointer;
-     ">
-     📥 Send an email!
+       padding: 12px 22px;
+       border-radius: 10px;
+       font-weight: 600;
+       font-size: 1rem;
+       transition: all 0.25s ease;
+       box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+     "
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 14px rgba(0,0,0,0.15)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 3px 8px rgba(0,0,0,0.08)';"
+  >
+    📧 Send an email
   </a>
 
 </div>
-
 
