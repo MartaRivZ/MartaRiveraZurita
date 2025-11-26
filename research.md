@@ -162,7 +162,30 @@ My research focuses on cognitive processes involved in language and learning, wi
       <p style="margin-bottom:0;">Find my conference contributions to the project (ref.PID2021-122127NB-100)</p>
     </div>
   </a>
+</div>
+
+<div style="text-align: center; margin: 40px 0;">
+
+  <a href="/MartaRiveraZurita/publications/"
+     style="
+       display: inline-block;
+       padding: 14px 26px;
+       background: linear-gradient(135deg, #73d0ff, #409eff);
+       color: white;
+       font-weight: 600;
+       text-decoration: none;
+       border-radius: 12px;
+       font-size: 1.05rem;
+       box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+       transition: all 0.28s ease;
+     "
+     onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.18)';"
+     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 14px rgba(0,0,0,0.12)';"
+  >
+    📚 View Publications
+  </a>
 
 </div>
+
 
 
