@@ -1,1 +1,17 @@
+/* Cambiar color del header del tema Minima */
+.site-header {
+  background-color: #0056A3 !important; /* azul fuerte UIB */
+  border-bottom: none !important;
+}
+
+/* Color del texto del menú */
+.site-title, .site-title a,
+.site-nav a {
+  color: #ffffff !important; /* blanco */
+}
+
+/* Hover */
+.site-nav a:hover {
+  color: #D6ECFF !important;
+}
 
