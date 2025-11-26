@@ -5,64 +5,124 @@ permalink: /research/
 ---
 My research focuses on cognitive processes involved in language and learning, with a particular interest in how people acquire, process, and use multiple languages. 
 
-<section id="research-interests">
+<div style="max-width: 900px; margin: 40px auto;">
 
-  <h2 style="text-align:center; margin-top: 40px;">Research interests</h2>
+  <h2 style="text-align: center; margin-bottom: 24px;">
+    Research interests
+  </h2>
 
-  <style>
-    /* === GRID GENERAL === */
-    .interest-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 20px;
-      margin: 30px auto 50px auto;
-      max-width: 900px;
-    }
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+  ">
 
-    /* === CUADROS === */
-    .interest-box {
-      background: #ffffff;
+    <!-- 1 -->
+    <div style="
+      flex: 1 1 220px;
+      max-width: 260px;
       border-radius: 14px;
-      padding: 18px 16px;
+      padding: 16px 12px;
       text-align: center;
       box-shadow: 0 4px 10px rgba(0,0,0,0.06);
-      transition: transform 0.25s ease, box-shadow 0.25s ease;
       border: 1px solid #e9e9e9;
-    }
+      background-color: #ffffff;
+    ">
+      <div style="font-size: 32px; margin-bottom: 8px;">📘</div>
+      <div style="font-weight: 600; font-size: 1rem; color: #6CCF89;">
+        Grammar Learning
+      </div>
+    </div>
 
-    .interest-box:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 6px 16px rgba(0,0,0,0.12);
-    }
+    <!-- 2 -->
+    <div style="
+      flex: 1 1 220px;
+      max-width: 260px;
+      border-radius: 14px;
+      padding: 16px 12px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+      border: 1px solid #e9e9e9;
+      background-color: #ffffff;
+    ">
+      <div style="font-size: 32px; margin-bottom: 8px;">🗣️</div>
+      <div style="font-weight: 600; font-size: 1rem; color: #6CCF89;">
+        Bilingual Language Processing
+      </div>
+    </div>
 
-    /* === ICONOS === */
-    .interest-icon {
-      font-size: 36px;
-      display: block;
-      margin-bottom: 10px;
-    }
+    <!-- 3 -->
+    <div style="
+      flex: 1 1 220px;
+      max-width: 260px;
+      border-radius: 14px;
+      padding: 16px 12px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+      border: 1px solid #e9e9e9;
+      background-color: #ffffff;
+    ">
+      <div style="font-size: 32px; margin-bottom: 8px;">🧠</div>
+      <div style="font-weight: 600; font-size: 1rem; color: #6CCF89;">
+        Cognitive Control
+      </div>
+    </div>
 
-    /* === TEXTO === */
-    .interest-title {
-      font-weight: 600;
-      font-size: 1rem;
-      color: #6CCF89; /* verde clarito */
-      margin: 0;
-    }
+    <!-- 4 -->
+    <div style="
+      flex: 1 1 220px;
+      max-width: 260px;
+      border-radius: 14px;
+      padding: 16px 12px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+      border: 1px solid #e9e9e9;
+      background-color: #ffffff;
+    ">
+      <div style="font-size: 32px; margin-bottom: 8px;">🔬</div>
+      <div style="font-weight: 600; font-size: 1rem; color: #6CCF89;">
+        Experimental Methods
+      </div>
+    </div>
 
-    /* Versión móvil: un poco más de espacio */
-    @media (max-width: 600px) {
-      .interest-box {
-        padding: 16px 12px;
-      }
-    }
-  </style>
+    <!-- 5 -->
+    <div style="
+      flex: 1 1 220px;
+      max-width: 260px;
+      border-radius: 14px;
+      padding: 16px 12px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+      border: 1px solid #e9e9e9;
+      background-color: #ffffff;
+    ">
+      <div style="font-size: 32px; margin-bottom: 8px;">👁️</div>
+      <div style="font-weight: 600; font-size: 1rem; color: #6CCF89;">
+        ERP &amp; Eye-Tracking
+      </div>
+    </div>
 
-  <div class="interest-grid">
+    <!-- 6 -->
+    <div style="
+      flex: 1 1 220px;
+      max-width: 260px;
+      border-radius: 14px;
+      padding: 16px 12px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+      border: 1px solid #e9e9e9;
+      background-color: #ffffff;
+    ">
+      <div style="font-size: 32px; margin-bottom: 8px;">🤝</div>
+      <div style="font-weight: 600; font-size: 1rem; color: #6CCF89;">
+        Mentorship &amp; Outreach
+      </div>
+    </div>
 
-    <div class="interest-box">
-      <span class="interest-icon">📘</span>
-      <p class="interest-t
+  </div>
+</div>
+
 
 
 ## Active Research Projects 🗂️
