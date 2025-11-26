@@ -15,7 +15,7 @@ My research focuses on cognitive processes involved in language and learning, wi
 ">
 
   <!-- Cuadro 1 (enlace interno) -->
-  <a href="/MartaRiveraZurita/LLproject/"
+  <a href="/MartaRiveraZurita/LLproject"
      style="flex: 1; min-width: 260px; text-decoration: none; color: inherit;">
     
     <div style="
