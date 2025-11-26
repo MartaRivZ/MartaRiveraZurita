@@ -36,7 +36,7 @@ My research focuses on cognitive processes involved in language and learning, wi
   </a>
 
   <!-- Cuadro 2 (enlace externo) -->
-  <a href="ENLACE_EXTERNO" target="_blank"
+  <a href="https://github.com/MartaRivZ/LAUA_contributions" target="_blank"
      style="flex: 1; min-width: 260px; text-decoration: none; color: inherit;">
     
     <div style="
@@ -52,7 +52,7 @@ My research focuses on cognitive processes involved in language and learning, wi
       onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)';"
     >
       <h3 style="margin-top:0;">LAUA Project</h3>
-      <p style="margin-bottom:0;">Find my contributions to the project (ref.PID2021-122127NB-100)</p>
+      <p style="margin-bottom:0;">Find my conference contributions to the project (ref.PID2021-122127NB-100)</p>
     </div>
   </a>
 
