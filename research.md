@@ -170,8 +170,8 @@ My research focuses on cognitive processes involved in language and learning, wi
      style="
        display: inline-block;
        padding: 14px 26px;
-       background: linear-gradient(135deg, #73d0ff, #409eff);
-       color: white;
+       background: linear-gradient(135deg, #A8F0C6, #73DFA0);
+       color: #000;
        font-weight: 600;
        text-decoration: none;
        border-radius: 12px;
@@ -186,6 +186,7 @@ My research focuses on cognitive processes involved in language and learning, wi
   </a>
 
 </div>
+
 
 
 
