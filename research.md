@@ -51,7 +51,7 @@ My research focuses on cognitive processes involved in language and learning, wi
       onmouseover="this.style.boxShadow='0 4px 14px rgba(140, 200, 140, 0.4)'; this.style.transform='translateY(-3px)';"
       onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)';"
     >
-      <h3 style="margin-top:0;">LAUA Project</h3>
+      <h3 style="margin-top:0;">Language Attrition and Ultimate Attainment</h3>
       <p style="margin-bottom:0;">Find my conference contributions to the project (ref.PID2021-122127NB-100)</p>
     </div>
   </a>
