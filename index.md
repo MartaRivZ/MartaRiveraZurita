@@ -5,11 +5,13 @@ title: ""
 
 <img src="/MartaRiveraZurita/Marta.png" alt="Marta Rivera Zurita" style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px;"> 
 
-# Marta Rivera, PhD
+# Marta Rivera, PhD 
 
-*Juan de la Cierva* postdoctoral researcher in Psycholingusitics and Cognitive Neuroscience (ref: JDC2023-050438-I) at the [BASLA Research group](https://www.baslagroup.com) 📍University of the Balearic Islands (UIB) 
+🔅 *Juan de la Cierva* postdoctoral researcher in Psycholingusitics and Cognitive Neuroscience (ref: JDC2023-050438-I) at the [BASLA Research group](https://www.baslagroup.com) 
+📍Deparment of Spanish, Modern, and Classical languages - University of the Balearic Islands (UIB) 
 
-This website is under construction🔅. Soon you will find here information about:
+
+This website is under construction ⚒️. Soon you will find here information about:
 
 - My research projects
 - Publications and conference talks
