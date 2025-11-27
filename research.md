@@ -3,112 +3,7 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
-My research focuses on cognitive processes involved in language and learning, with a particular interest in how people acquire, process, and use multiple languages. 
-
-<div style="max-width: 900px; margin: 40px auto;">
-
-  <h2 style="text-align: left; margin-bottom: 24px;">
-    Research interests
-  </h2>
-
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-  ">
-
-    <!-- 1 -->
-    <div style="
-      border-radius: 14px;
-      padding: 20px;
-      text-align: center;
-      background-color: #ffffff;
-      border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-    ">
-      <div style="font-size: 34px; margin-bottom: 8px;">📘</div>
-      <div style="font-weight: 600; font-size: 1rem; color: #000;">
-        Grammar Learning
-      </div>
-    </div>
-
-    <!-- 2 -->
-    <div style="
-      border-radius: 14px;
-      padding: 20px;
-      text-align: center;
-      background-color: #ffffff;
-      border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-    ">
-      <div style="font-size: 34px; margin-bottom: 8px;">🗣️</div>
-      <div style="font-weight: 600; font-size: 1rem; color: #000;">
-        Bilingual Processing
-      </div>
-    </div>
-
-    <!-- 3 -->
-    <div style="
-      border-radius: 14px;
-      padding: 20px;
-      text-align: center;
-      background-color: #ffffff;
-      border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-    ">
-      <div style="font-size: 34px; margin-bottom: 8px;">🧠</div>
-      <div style="font-weight: 600; font-size: 1rem; color: #000;">
-        Cognitive Control
-      </div>
-    </div>
-
-    <!-- 4 -->
-    <div style="
-      border-radius: 14px;
-      padding: 20px;
-      text-align: center;
-      background-color: #ffffff;
-      border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-    ">
-      <div style="font-size: 34px; margin-bottom: 8px;">🔬</div>
-      <div style="font-weight: 600; font-size: 1rem; color: #000;">
-        Experimental Methods
-      </div>
-    </div>
-
-    <!-- 5 -->
-    <div style="
-      border-radius: 14px;
-      padding: 20px;
-      text-align: center;
-      background-color: #ffffff;
-      border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-    ">
-      <div style="font-size: 34px; margin-bottom: 8px;">👁️</div>
-      <div style="font-weight: 600; font-size: 1rem; color: #000;">
-        ERP &amp; Eye-Tracking
-      </div>
-    </div>
-
-    <!-- 6 -->
-    <div style="
-      border-radius: 14px;
-      padding: 20px;
-      text-align: center;
-      background-color: #ffffff;
-      border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-    ">
-      <div style="font-size: 34px; margin-bottom: 8px;">🤝</div>
-      <div style="font-weight: 600; font-size: 1rem; color: #000;">
-        Mentorship &amp; Outreach
-      </div>
-    </div>
-
-  </div>
-</div>
+My research focuses on cognitive processes involved in language learning and bilingualism, with a particular interest in how people acquire, process, and use multiple languages. 
 
 
 ## Active Research Projects 🗂️
@@ -164,6 +59,7 @@ My research focuses on cognitive processes involved in language and learning, wi
   </a>
 </div>
 
+If you want to read some of my work: 
 <div style="text-align: center; margin: 40px 0;">
 
   <a href="/MartaRiveraZurita/publications/"
