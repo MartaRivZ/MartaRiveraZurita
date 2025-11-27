@@ -59,7 +59,9 @@ My research focuses on cognitive processes involved in language learning and bil
   </a>
 </div>
 
-If you want to read some of my work: 
+## If you want to read some of my work: 
+
+
 <div style="text-align: center; margin: 40px 0;">
 
   <a href="/MartaRiveraZurita/publications/"
