@@ -17,9 +17,10 @@ Fernanda Milena Angulo Vera - Research Assitant
 
 ## External Collaborators
 
-[Marta Reyes Sanchez ](https://www.memoryugr.es/people/marta-reyes/)(Loyola Andalucía University)
-[Antonio Iniesta](https://www.memoryugr.es/people/antonio-iniesta/) (University of Granada)
-[Manuel Pulido](https://sip.la.psu.edu/people/mfp149/) (PennState University)
+- [Marta Reyes Sanchez ](https://www.memoryugr.es/people/marta-reyes/)(Loyola Andalucía University)
+- [Antonio Iniesta](https://www.memoryugr.es/people/antonio-iniesta/) (University of Granada)
+- [Manuel Pulido](https://sip.la.psu.edu/people/mfp149/) (PennState University)
+
 
 
 
