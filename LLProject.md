@@ -26,4 +26,4 @@ Fernanda Milena Angulo Vera - Research Assitant
 
 ## Pre-registrated studies
 
-Upcoming ⚒️
+- [Modulatory Factors In Longitudinal Grammar Learning: Evidence From A 10-Day Semi-Artificial Language Training] (https://osf.io/ypm96/overview?view_only=5c996abbfd29429e9ebbfa06c9785112)
